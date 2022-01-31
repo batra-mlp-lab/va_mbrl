@@ -1,0 +1,6 @@
+[submodule "va_slbo"]
+	path = va_slbo
+	url = https://github.com/nirbhayjm/va_slbo
+[submodule "va_mbpo"]
+	path = va_mbpo
+	url = https://github.com/nirbhayjm/va_mbpo
